@@ -11,10 +11,6 @@ import Clases.Pintar;
 import java.awt.Frame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author fredy-18
- */
 public class EliminarAristas extends javax.swing.JFrame {
 int i;
     /**

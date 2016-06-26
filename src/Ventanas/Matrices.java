@@ -9,10 +9,6 @@ package Ventanas;
 import Clases.Arboles;
 import java.awt.Frame;
 
-/**
- *
- * @author fredy_000
- */
 public class Matrices extends javax.swing.JFrame {
 
     /**

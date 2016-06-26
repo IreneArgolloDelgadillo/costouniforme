@@ -19,10 +19,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author fredy_000
- */
 public class VentanaPrincipal extends javax.swing.JFrame {
        
     /**

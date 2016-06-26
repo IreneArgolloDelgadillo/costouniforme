@@ -11,10 +11,6 @@ import Clases.Pintar;
 import java.awt.Frame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author fredy_000
- */
 public class VentanaArista extends javax.swing.JFrame {
 
     /**
